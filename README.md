@@ -67,6 +67,7 @@ To automatically deploy the app, click the big orange button 👇
 
 3. Connect to [AWS Amplify Console](https://console.aws.amazon.com/amplify/home) and wait for build to start. You will be given a production URL and you are ready to take some notes!
 
+4. Test!
 
 ### License
 
